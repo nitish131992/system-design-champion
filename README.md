@@ -4,14 +4,8 @@ in whatever you are up to learning new thing, preparing for interview .
 In case you finds any wrong or misleading content please feel free to drop me an email on nitishlvashisth@gmail.com and 
 I will be more than happy to correct it.
 
-# Table of contents
-
-- **Getting Started**
-
+# Topics covered  
   - [What is System Design ?](#what-is-system-design-)
-
-- **Genral Concepts**
-
   - [CPU and Memory](#cpu-and-memory)
     
 # What is System Design ?
