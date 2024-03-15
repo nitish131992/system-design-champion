@@ -13,7 +13,6 @@ I will be more than happy to correct it.
 - **Genral Concepts**
 
   - [CPU and Memory](#CPUandMemory)
-  - [OSI Model](#osi-model)
     
 # What is System Design ?
 System design is the process of defining the architecture, interfaces, and data for a system that satisfies specific requirements. System design meets the needs of your business or organization through coherent and efficient systems. Once your business or organization determines its requirements, you can begin to build them into a physical system design that addresses the needs of your customers. The way you design your system will depend on whether you want to go for custom development, commercial solutions, or a combination of the two.
@@ -21,7 +20,12 @@ System design is the process of defining the architecture, interfaces, and data 
 System design requires a systematic approach to building and engineering systems. A good system design requires you to think about everything in an infrastructure, from the hardware and software, all the way down to the data and how it’s stored.
 
 # CPU and Memory
+Cental Processing Unit
+
 # Horizontal and vertical scaling
+Adding more resource in same node is vertical scaling
+Adding new node is horizontal scaling
+
 # Hard Drive / Network Bandwidth
 # CAP Theorem
 # Load Balancer
