@@ -8,7 +8,7 @@ I will be more than happy to correct it.
 
 - **Getting Started**
 
-  - [What is System Design ?](#WhatisSystemDesign ?)
+  - [What is System Design ?](#what-is-system-design-)
 
 - **Genral Concepts**
 
