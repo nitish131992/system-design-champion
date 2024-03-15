@@ -55,7 +55,7 @@ Adding new node is horizontal scaling
 # DNS 
 # HTTP vs HTTPS
 # CDN and Edges
-# Cahce
+# Cahcing
 [Cache Fundamentals](https://nitishvashisth.hashnode.dev/caching-fundamentals)
     
 # Misc Topics
