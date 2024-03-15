@@ -8,11 +8,11 @@ I will be more than happy to correct it.
 
 - **Getting Started**
 
-  - [What is System Design ?](#What is System Design ?)
+  - [What is System Design ?](#WhatisSystemDesign ?)
 
 - **Genral Concepts**
 
-  - [CPU and Memory](#CPU and Memory)
+  - [CPU and Memory](#CPUandMemory)
   - [OSI Model](#osi-model)
     
 # What is System Design ?
