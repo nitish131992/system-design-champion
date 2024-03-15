@@ -7,7 +7,7 @@ I will be more than happy to correct it.
 # Table of contents
 
   - **Introduction**
-    - [What is System Design ?](#What is System Design ?)
+    - [What is System Design ?](# What is System Design ?)
       
   - ** General Concepts **
     - [CPU and Memory](#CPU and Memory)
