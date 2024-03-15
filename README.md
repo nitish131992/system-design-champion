@@ -7,7 +7,7 @@ I will be more than happy to correct it.
 # Table of contents
 
   - **Introduction**
-    - [What is System Design ?](# What is System Design ?)
+    - [What is System Design ?](#What is System Design ?)
       
   - ** General Concepts **
     - [CPU and Memory](#CPU and Memory)
@@ -22,6 +22,12 @@ System design is the process of defining the architecture, interfaces, and data 
 
 System design requires a systematic approach to building and engineering systems. A good system design requires you to think about everything in an infrastructure, from the hardware and software, all the way down to the data and how it’s stored.
 
+# CPU and Memory
+# Horizontal and vertical scaling
+# Hard Drive / Network Bandwidth
+# CAP Theorem
+# Load Balancer
+ 
 1. CPU and Memory
 2. Horizontal and vertical scaling
 3. Hard Drive / Network Bandwidth
