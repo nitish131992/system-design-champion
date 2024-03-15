@@ -21,36 +21,39 @@ Adding more resource in same node is vertical scaling
 Adding new node is horizontal scaling
 
 # Hard Drive / Network Bandwidth
+
 # CAP Theorem
+
 # Load Balancer
- 
-1. CPU and Memory
-2. Horizontal and vertical scaling
-3. Hard Drive / Network Bandwidth
-4. CAP Theorem
-5. Load Balancer
-6. Asyncronous Processing Queue
+
+#  Asyncronous Processing Queue
    * Rabbit MQ
    * Kafka
    * Service Bus
    * Pub / Sub
-7. Zoo Keeper
-8. Cloud
+     
+# Cloud
    * AWS
    * Azure
    * GCP
    * Blue Ocean
-9. Deployment
+
+# Deployment
    * Docker
    * Kubentees
    * Virtula Machine / Container
-10. Hadoop / Spark / HDFS
-11. DNS Lookup
-12. HTTP vs HTTPS
-13. CDN and Edges
-14. Cahce
-    
+
+# DNS 
+# HTTP vs HTTPS
+# CDN and Edges
+# Cahce
 [Cache Fundamentals](https://nitishvashisth.hashnode.dev/caching-fundamentals)
+    
+# Misc Topics
+### Zoo Keeper
+### Hadoop / Spark / HDFS
+    
+
 
 
     
