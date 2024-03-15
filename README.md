@@ -15,10 +15,10 @@ I will be more than happy to correct it.
   - [Cloud](#cloud)
   - [Deployment](#deployment)
   - [DNS](#dns)
-  - HTTP vs HTTPS
-  - CDN and Edges
-  - Cahcing
-  - Misc Topics
+  - [HTTP vs HTTPS](#http-vs-https)
+  - [CDN and Edges](#cdn-and-edges)
+  - [Cahcing](#cahcing)
+  - [Misc Topics](#misc-topics)
     
 # What is System Design ?
 System design is the process of defining the architecture, interfaces, and data for a system that satisfies specific requirements. System design meets the needs of your business or organization through coherent and efficient systems. Once your business or organization determines its requirements, you can begin to build them into a physical system design that addresses the needs of your customers. The way you design your system will depend on whether you want to go for custom development, commercial solutions, or a combination of the two.
