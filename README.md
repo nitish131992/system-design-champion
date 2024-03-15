@@ -7,6 +7,15 @@ I will be more than happy to correct it.
 # Topics covered  
   - [What is System Design ?](#what-is-system-design-)
   - [CPU and Memory](#cpu-and-memory)
+  - [Horizontal and vertical scaling](#horizontal-and-vertical-scaling)
+  - [Hard Drive / Network Bandwidth](#hard-drive--network-bandwidth)
+  - [CAP Theorem](#cap-theorem)
+  - [Load Balancer](#load-balancer)
+  - [Asyncronous Processing Queue](#asyncronous-processing-queue)
+  - [Cloud](#cloud)
+  - [Deployment](#deployment)
+  - DNS(#dns)
+  - 
     
 # What is System Design ?
 System design is the process of defining the architecture, interfaces, and data for a system that satisfies specific requirements. System design meets the needs of your business or organization through coherent and efficient systems. Once your business or organization determines its requirements, you can begin to build them into a physical system design that addresses the needs of your customers. The way you design your system will depend on whether you want to go for custom development, commercial solutions, or a combination of the two.
