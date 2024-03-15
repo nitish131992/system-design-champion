@@ -77,7 +77,7 @@ Adding new node is horizontal scaling
   * Secondry
   * CLustering
 * Types of NoSql
-  * * Key Value
+    * Key Value
     * Document Based
     * Wide column
     * Graph Based
@@ -88,15 +88,15 @@ Adding new node is horizontal scaling
 * Read Heavy vs Write Heavy
 
 # Search
-*Solr
-*Elastic Search
+* Solr
+* Elastic Search
   
 # Misc Topics
 ### Zoo Keeper
 ### Hadoop / Spark / HDFS
 ### Stream vs Batch Processing
 ### Authentication vs Authorization
-### 
+### A/B Testing
     
 
 
