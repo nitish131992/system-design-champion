@@ -65,7 +65,32 @@ Adding new node is horizontal scaling
 [Cache Fundamentals](https://nitishvashisth.hashnode.dev/caching-fundamentals)
 
 # Consistent Hashing
-    
+
+# Database
+* SLQ vs NoSql
+* ACID vs BASE
+* Data Denormalization
+* Database partitioning (Shrading)
+* * Vertical / Key Based / Directory Based
+* DB indexing
+* * Primary
+  * Secondry
+  * CLustering
+* Types of NoSql
+  * * Key Value
+    * Document Based
+    * Wide column
+    * Graph Based
+      
+# Node Replication Startegy
+* Master - Master
+* Master Slave
+* Read Heavy vs Write Heavy
+
+# Search
+*Solr
+*Elastic Search
+  
 # Misc Topics
 ### Zoo Keeper
 ### Hadoop / Spark / HDFS
