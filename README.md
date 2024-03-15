@@ -71,9 +71,11 @@ Adding new node is horizontal scaling
 * ACID vs BASE
 * Data Denormalization
 * Database partitioning (Shrading)
-* * Vertical / Key Based / Directory Based
+  * Vertical
+  * Key Based
+  * Directory Based
 * DB indexing
-* * Primary
+  * Primary
   * Secondry
   * CLustering
 * Types of NoSql
