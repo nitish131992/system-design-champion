@@ -33,6 +33,6 @@ System design requires a systematic approach to building and engineering systems
 11. HTTP vs HTTPS
 12. CDN and Edges
 13. Cahce
-    [Cachec Fundamentals] https://nitishvashisth.hashnode.dev/caching-fundamentals
+    [Cachec Fundamentals] (https://nitishvashisth.hashnode.dev/caching-fundamentals)
     
     
