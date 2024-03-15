@@ -6,7 +6,7 @@ I will be more than happy to correct it.
 
 # Table of contents
 
-**Getting Started**
+- **Getting Started**
 
   - [What is System Design ?](#what-is-system-design-)
 
