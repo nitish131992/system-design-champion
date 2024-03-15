@@ -63,10 +63,15 @@ Adding new node is horizontal scaling
 
 # Cahcing
 [Cache Fundamentals](https://nitishvashisth.hashnode.dev/caching-fundamentals)
+
+# Consistent Hashing
     
 # Misc Topics
 ### Zoo Keeper
 ### Hadoop / Spark / HDFS
+### Stream vs Batch Processing
+### Authentication vs Authorization
+### 
     
 
 
