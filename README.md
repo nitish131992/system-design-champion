@@ -41,6 +41,10 @@ Adding new node is horizontal scaling
 # CAP Theorem
 
 # Load Balancer
+* Consistent Hashing
+* Round Robin
+* Weighted Round Robin
+* Least Connection
 
 #  Asyncronous Processing Queue
    * Rabbit MQ
