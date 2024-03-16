@@ -19,6 +19,10 @@ I will be more than happy to correct it.
   - [CDN and Edges](#cdn-and-edges)
   - [Cahcing](#cahcing)
   - [Misc Topics](#misc-topics)
+  - [Consistent Hashing](#consistent-hashing)
+  - [Database](#database)
+  - [Node Replication Startegy](#node-replication-startegy)
+  - [Search](#search)
     
 # What is System Design ?
 System design is the process of defining the architecture, interfaces, and data for a system that satisfies specific requirements. System design meets the needs of your business or organization through coherent and efficient systems. Once your business or organization determines its requirements, you can begin to build them into a physical system design that addresses the needs of your customers. The way you design your system will depend on whether you want to go for custom development, commercial solutions, or a combination of the two.
