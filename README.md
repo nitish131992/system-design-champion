@@ -54,14 +54,14 @@ B) Consider the cluster to be "down" (giving up availability)
 
 All the combinations available are:
 
-CA - data is consistent between all nodes - as long as all nodes are online - and you can read/write from any node and be sure that the data is the same, but if you ever develop a partition between nodes, the data will be out of sync (and won't re-sync once the partition is resolved).
+**CA** - data is consistent between all nodes - as long as all nodes are online - and you can read/write from any node and be sure that the data is the same, but if you ever develop a partition between nodes, the data will be out of sync (and won't re-sync once the partition is resolved).
 
-CP - data is consistent between all nodes and maintains partition tolerance (preventing data desync) by becoming unavailable when a node goes down.
+**CP** - data is consistent between all nodes and maintains partition tolerance (preventing data desync) by becoming unavailable when a node goes down.
 partition is resolved, but you aren't guaranteed that all nodes will have the same data (either during or after the partition)
 
 You should note that CA systems don't practically exist (even if some systems claim to be so). So, either CP or AP
 
-AP - nodes remain online even if they can't communicate with each other and will resync data once the 
+**AP** - nodes remain online even if they can't communicate with each other and will resync data once the 
 
 Refer from ByteByteGo : [CAP Theorem Simplified](https://www.youtube.com/watch?v=BHqjEjzAicA)
 
