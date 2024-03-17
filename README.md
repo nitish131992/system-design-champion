@@ -92,6 +92,12 @@ Checkout this video on youtube from ByteByteGo : [CAP Theorem Simplified](https:
 
 # HTTP vs HTTPS
 
+To provide encryption, HTTPS uses an encryption protocol known as Transport Layer Security, and officially, it is referred to as a Secure Sockets Layer (SSL)
+This protocol uses a mechanism known as asymmetric public key infrastructure, and it uses two different keys which are given below:
+(1) **Private key**: This key is available on the web server, which is managed by the owner of a website. It decrypts the information which is encrypted by the public key.
+(2) **Public key**: This key is available to everyone. It converts the data into an encrypted form.
+
+
 # CDN and Edges
 
 # Cahcing
