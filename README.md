@@ -63,7 +63,7 @@ You should note that CA systems don't practically exist (even if some systems cl
 
 **AP** - nodes remain online even if they can't communicate with each other and will resync data once the 
 
-Refer from ByteByteGo : [CAP Theorem Simplified](https://www.youtube.com/watch?v=BHqjEjzAicA)
+Checkout this video on youtube from ByteByteGo : [CAP Theorem Simplified](https://www.youtube.com/watch?v=BHqjEjzAicA)
 
 # Load Balancer
 * Consistent Hashing
