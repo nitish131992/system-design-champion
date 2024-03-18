@@ -6,7 +6,8 @@ I will be more than happy to correct it.
 
 # Topics covered  
 
-**Networking Concepts **
+- **Chapter I**
+  
   - [IP](#url)
   - [OSI Model](#url)
   - [TCP and UDP](#url)
