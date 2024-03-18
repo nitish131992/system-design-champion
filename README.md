@@ -5,6 +5,13 @@ In case you finds any wrong or misleading content please feel free to drop me an
 I will be more than happy to correct it.
 
 # Topics covered  
+
+- **Networking Concepts I**
+  - [IP](#url)
+  - [OSI Model](#url)
+  - [TCP and UDP](#url)
+  - [Domain Name System (DNS)](#url)
+  
   - [What is System Design ?](#what-is-system-design-)
   - [CPU and Memory](#cpu-and-memory)
   - [Horizontal and vertical scaling](#horizontal-and-vertical-scaling)
