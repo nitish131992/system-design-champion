@@ -28,6 +28,7 @@ I will be more than happy to correct it.
   - Reliability
   - Consistency
   - Scalability
+      - Horizontal Vs Vertical Scaling
   - Fault Tolerant
 
 - ** Database Concepts **
