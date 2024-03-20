@@ -20,6 +20,7 @@ I will be more than happy to correct it.
    - [Cahche](#cahcing)
   
 - ** Software System Performance Metrics **
+  - Latecny and Network Bandwidth
   - Availablity
   - Reliability
   - Consistency
