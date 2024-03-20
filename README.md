@@ -4,7 +4,7 @@ in whatever you are up to learning new thing, preparing for interview .
 In case you finds any wrong or misleading content please feel free to drop me an email on nitishlvashisth@gmail.com and 
 I will be more than happy to correct it.
 
-- [What is System Design ?](#what-is-system-design-)
+[What is System Design ?](#what-is-system-design-)
 
 - **Networking Concepts**
   
