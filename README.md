@@ -4,7 +4,7 @@ in whatever you are up to learning new thing, preparing for interview .
 In case you finds any wrong or misleading content please feel free to drop me an email on nitishlvashisth@gmail.com and 
 I will be more than happy to correct it.
 
-# Topics covered  
+- [What is System Design ?](#what-is-system-design-)
 
 - **Networking Concepts**
   
@@ -12,18 +12,38 @@ I will be more than happy to correct it.
   - [OSI Model](#url)
   - [TCP and UDP](#url)
   - [Domain Name System (DNS)](#url)
+  - [DNS](#dns)
+  - [HTTP vs HTTPS](#http-vs-https)
+ 
+- ** Operating System Concepts **
+   - [CPU and Memory](#cpu-and-memory)
+   - [Cahche](#cahcing)
   
-  - [What is System Design ?](#what-is-system-design-)
-  - [CPU and Memory](#cpu-and-memory)
-  - [Horizontal and vertical scaling](#horizontal-and-vertical-scaling)
+- ** Software System Performance Metrics **
+  - Availablity
+  - Reliability
+  - Consistency
+  - Scalability
+
+- ** Database Concepts **
+- [Horizontal and vertical scaling](#horizontal-and-vertical-scaling)
+
+- [CAP Theorem](#cap-theorem)
+
+- ** Software Architecture Pattern **
+  - Layered Pattern
+  - Event Driven
+  - Client Server
+  - Microkernel
+  - Microservices
+  - Monolithic
+ 
+- ** Advance Concepts **
   - [Hard Drive / Network Bandwidth](#hard-drive--network-bandwidth)
-  - [CAP Theorem](#cap-theorem)
   - [Load Balancer](#load-balancer)
   - [Asyncronous Processing Queue](#asyncronous-processing-queue)
   - [Cloud](#cloud)
   - [Deployment](#deployment)
-  - [DNS](#dns)
-  - [HTTP vs HTTPS](#http-vs-https)
   - [CDN and Edges](#cdn-and-edges)
   - [Cahcing](#cahcing)
   - [Misc Topics](#misc-topics)
