@@ -15,18 +15,20 @@ I will be more than happy to correct it.
   - [DNS](#dns)
   - [HTTP vs HTTPS](#http-vs-https)
  
-- ** Operating System Concepts **
+- **Operating System Concepts**
+  
    - [CPU and Memory](#cpu-and-memory)
    - Race Condition
    - [Cahche](#cahcing)
   
-- ** Software System Performance Metrics **
+- **Software System Performance Metrics**
   
-  - Latecny and Network Bandwidth
+  - Latency and Network Bandwidth
   - Availablity
   - Reliability
   - Consistency
   - Scalability
+  - Fault Tolerant
 
 - ** Database Concepts **
 - [Horizontal and vertical scaling](#horizontal-and-vertical-scaling)
