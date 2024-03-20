@@ -28,11 +28,11 @@ I will be more than happy to correct it.
   - Reliability
   - Consistency
   - Scalability
-      - Horizontal Vs Vertical Scaling
+      - [Horizontal and Vertical Scaling](#horizontal-and-vertical-scaling)
   - Fault Tolerant
 
 - ** Database Concepts **
-- [Horizontal and vertical scaling](#horizontal-and-vertical-scaling)
+
 
 - [CAP Theorem](#cap-theorem)
 
