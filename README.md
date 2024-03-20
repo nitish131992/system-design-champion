@@ -17,9 +17,11 @@ I will be more than happy to correct it.
  
 - ** Operating System Concepts **
    - [CPU and Memory](#cpu-and-memory)
+   - Race Condition
    - [Cahche](#cahcing)
   
 - ** Software System Performance Metrics **
+  
   - Latecny and Network Bandwidth
   - Availablity
   - Reliability
