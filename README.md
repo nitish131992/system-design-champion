@@ -46,7 +46,9 @@ I will be more than happy to correct it.
  
 - ** Advance Concepts **
   - [Hard Drive / Network Bandwidth](#hard-drive--network-bandwidth)
+  - Proxy
   - [Load Balancer](#load-balancer)
+  - API Gateway
   - [Asyncronous Processing Queue](#asyncronous-processing-queue)
   - [Cloud](#cloud)
   - [Deployment](#deployment)
@@ -99,11 +101,39 @@ You should note that CA systems don't practically exist (even if some systems cl
 
 Checkout this video on youtube from ByteByteGo : [CAP Theorem Simplified](https://www.youtube.com/watch?v=BHqjEjzAicA)
 
+# Proxy
+
+
 # Load Balancer
 * Consistent Hashing
 * Round Robin
 * Weighted Round Robin
 * Least Connection
+
+# API Gateway
+
+# Reverse proxy vs API gateway vs Load balancer
+
+Reverse proxy vs. API gateway vs. load balancer
+
+As modern websites and applications are like busy beehives, we use a variety of tools to manage the buzz. Here we'll explore three superheroes: Reverse Proxy, API Gateway, and Load Balancer.
+
+🔹Reverse Proxy: change identity
+- Fetching data secretly, keeping servers hidden.
+- Perfect for shielding sensitive websites from cyber-attacks and prying eyes.
+
+🔹API Gateway: postman
+- Delivers requests to the right services.
+- Ideal for bustling applications with numerous intercommunicating services.
+
+🔹Load Balancer: traffic cop
+- Directs traffic evenly across servers, preventing bottlenecks
+- Essential for popular websites with heavy traffic and high demand.
+
+In a nutshell, choose a Reverse Proxy for stealth, an API Gateway for organized communications, and a Load Balancer for traffic control. Sometimes, it's wise to have all three - they make a super team that keeps your digital kingdom safe and efficient.
+
+![Proxy-LB-AG](https://github.com/nitish131992/System-Design-Champion/assets/19357644/795f6e97-b1e4-450e-bc93-5a8bc2b7f5f9)
+
 
 #  Asyncronous Processing Queue
    * Rabbit MQ
