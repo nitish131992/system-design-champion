@@ -238,6 +238,8 @@ When you login to a website, your identity needs to be managed. Here is how diff
 ### Hadoop / Spark / HDFS
 ### Stream vs Batch Processing
 ### Authentication vs Authorization
+### Firewalls
+### Rate Limiters
 ### A/B Testing
     
 
