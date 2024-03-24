@@ -103,6 +103,38 @@ System design requires a systematic approach to building and engineering systems
     * Horizontal and Vertical Scaling
   #### Fault Tolerance
 
+## Database Concepts
+  #### Database
+  #### DBMS
+  #### DB Design
+    •	Type of Data – Structure vs Unstructured
+    •	Query Pattern
+    •	Scale
+
+  #### Typical Data storage
+    * Cache
+    * File Storage 
+      ex - Amazon S3
+    * CDN 
+    * For Search
+      Apache Solr , Elastic Search
+      Fuzzy Search
+      Here data could be lost, no guarantee. So, primary source should be DB
+    * Time Series 
+      Prometheus
+    * Analytics
+      Datawarehouse -> offline reporting , ex Hadoop
+
+  #### SQL
+  #### NoSQL
+  #### Distributed database
+  #### ACID vs BASE
+  #### CAP Theorem
+  #### PACELC Theorem
+  #### SQL vs NoSQL
+  #### 
+  
+
 # Horizontal and vertical scaling
 Adding more resource in same node is vertical scaling
 Adding new node is horizontal scaling
