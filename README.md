@@ -100,7 +100,7 @@ System design requires a systematic approach to building and engineering systems
   #### Reliability
   #### Consistency
   #### Scalability
-    #### Horizontal and Vertical Scaling
+    * Horizontal and Vertical Scaling
   #### Fault Tolerance
 
 # Horizontal and vertical scaling
