@@ -40,12 +40,17 @@ I will be more than happy to correct it.
   - Fault Tolerance
 
 - **Database Concepts**
-
-
-- [CAP Theorem](#cap-theorem)
-
-
- 
+  - Database
+  - DBMS
+  - DB Design
+  - Typical Data Storage
+  - SQL
+  - NoSQL
+  - ACID vs BASE
+  - [CAP Theorem](#cap-theorem)
+  - PACELC Theorem
+  - SQL vs NoSQL
+     
 - ** Advance Concepts **
   - [Hard Drive / Network Bandwidth](#hard-drive--network-bandwidth)
   - Proxy
@@ -130,18 +135,7 @@ System design requires a systematic approach to building and engineering systems
   #### Distributed database
   #### ACID vs BASE
   #### CAP Theorem
-  #### PACELC Theorem
-  #### SQL vs NoSQL
-  #### 
-  
-
-# Horizontal and vertical scaling
-Adding more resource in same node is vertical scaling
-Adding new node is horizontal scaling
-
-# Hard Drive / Network Bandwidth
-
-# CAP Theorem
+  # CAP Theorem
 
 The CAP theorem is a belief from theoretical computer science about distributed data stores that claims, in the event of a network failure on a distributed database, it is possible to provide either consistency or availability—but not both. Either AP or CP
 
@@ -167,6 +161,16 @@ You should note that CA systems don't practically exist (even if some systems cl
 **AP** - nodes remain online even if they can't communicate with each other and will resync data once the 
 
 Checkout this video on youtube from ByteByteGo : [CAP Theorem Simplified](https://www.youtube.com/watch?v=BHqjEjzAicA)
+  #### PACELC Theorem
+  #### SQL vs NoSQL
+  #### 
+  
+
+# Horizontal and vertical scaling
+Adding more resource in same node is vertical scaling
+Adding new node is horizontal scaling
+
+# Hard Drive / Network Bandwidth
 
 # Proxy
 
