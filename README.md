@@ -6,6 +6,12 @@ I will be more than happy to correct it.
 
 [What is System Design ?](#what-is-system-design-)
 
+- **Operating System Concepts**
+  
+   - [CPU and Memory](#cpu-and-memory)
+   - Race Condition
+   - [Cahche](#cahcing)
+
 - **Networking Concepts**
   
   - [IP](#url)
@@ -14,13 +20,7 @@ I will be more than happy to correct it.
   - [Domain Name System (DNS)](#url)
   - [DNS](#dns)
   - [HTTP vs HTTPS](#http-vs-https)
- 
-- **Operating System Concepts**
-  
-   - [CPU and Memory](#cpu-and-memory)
-   - Race Condition
-   - [Cahche](#cahcing)
-  
+   
 - **Software System Performance Metrics**
   
   - Latency and Network Bandwidth
@@ -65,8 +65,23 @@ System design is the process of defining the architecture, interfaces, and data 
 
 System design requires a systematic approach to building and engineering systems. A good system design requires you to think about everything in an infrastructure, from the hardware and software, all the way down to the data and how it’s stored.
 
-# CPU and Memory
-Cental Processing Unit
+## Operating System Concepts
+
+  ### CPU and Memory
+  
+  #### Race Condition
+  
+  #### Cache
+
+## Networking Concepts
+
+  #### IP
+  #### OSI
+  #### OSI Model
+  #### TCP and UDP
+  #### Doma Name System
+  #### HTTP vs HTTPS
+
 
 # Horizontal and vertical scaling
 Adding more resource in same node is vertical scaling
