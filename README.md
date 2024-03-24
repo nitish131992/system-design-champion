@@ -20,7 +20,15 @@ I will be more than happy to correct it.
   - [Domain Name System (DNS)](#url)
   - [DNS](#dns)
   - [HTTP vs HTTPS](#http-vs-https)
-   
+ 
+- **Software Architecture Pattern**
+  - Microservices
+  - Monolithic
+  - Event Driven
+  - Client Server
+  - Layered Pattern
+  - Microkernel
+      
 - **Software System Performance Metrics**
   
   - Latency and Network Bandwidth
@@ -29,20 +37,14 @@ I will be more than happy to correct it.
   - Consistency
   - Scalability
       - [Horizontal and Vertical Scaling](#horizontal-and-vertical-scaling)
-  - Fault Tolerant
+  - Fault Tolerance
 
-- ** Database Concepts **
+- **Database Concepts**
 
 
 - [CAP Theorem](#cap-theorem)
 
-- ** Software Architecture Pattern **
-  - Layered Pattern
-  - Event Driven
-  - Client Server
-  - Microkernel
-  - Microservices
-  - Monolithic
+
  
 - ** Advance Concepts **
   - [Hard Drive / Network Bandwidth](#hard-drive--network-bandwidth)
@@ -67,7 +69,7 @@ System design requires a systematic approach to building and engineering systems
 
 ## Operating System Concepts
 
-  ### CPU and Memory
+  #### CPU and Memory
   
   #### Race Condition
   
@@ -82,6 +84,24 @@ System design requires a systematic approach to building and engineering systems
   #### Doma Name System
   #### HTTP vs HTTPS
 
+## Software Architecture Pattern
+
+  #### Microservices
+  #### Monolithic
+  #### Event Driven
+  #### Client Server
+  #### Layered Pattern
+  #### Microkernel
+
+## Software System Performance Metrics
+  
+  #### Latency and Network Bandwidth
+  #### Availablity
+  #### Reliability
+  #### Consistency
+  #### Scalability
+    #### Horizontal and Vertical Scaling
+  #### Fault Tolerance
 
 # Horizontal and vertical scaling
 Adding more resource in same node is vertical scaling
