@@ -333,7 +333,7 @@ When you login to a website, your identity needs to be managed. Here is how diff
   ### Notification System Design
   - [Link 1](https://www.linkedin.com/pulse/notification-system-design-rajiv-srivastava/)
   - [Link 2](https://www.notificationapi.com/blog/notification-service-design-with-architectural-diagrams)
-  - [Link 3]([url](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/?ref=lbp))
+  - [Link 3](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/?ref=lbp)
 
   - [YouTube 1](https://www.youtube.com/watch?v=CUwt9_l0DOg)
 
