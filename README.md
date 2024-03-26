@@ -51,7 +51,7 @@ I will be more than happy to correct it.
   - PACELC Theorem
   - SQL vs NoSQL
      
-- ** Advance Concepts **
+- **Advance Concepts**
   - [Hard Drive / Network Bandwidth](#hard-drive--network-bandwidth)
   - Proxy
   - [Load Balancer](#load-balancer)
@@ -66,6 +66,16 @@ I will be more than happy to correct it.
   - [Database](#database)
   - [Node Replication Startegy](#node-replication-startegy)
   - [Search](#search)
+
+- **System Design Questions**
+  - Design BookMyShow
+  - Design TinyUrl
+  - Design MakeMyTrip
+  - Design System like Uber
+  - Ecommerce System (Amazon)
+  - Messanger App like Whatsapp / Facebook
+  - Notification System Design
+    
     
 # What is System Design ?
 System design is the process of defining the architecture, interfaces, and data for a system that satisfies specific requirements. System design meets the needs of your business or organization through coherent and efficient systems. Once your business or organization determines its requirements, you can begin to build them into a physical system design that addresses the needs of your customers. The way you design your system will depend on whether you want to go for custom development, commercial solutions, or a combination of the two.
