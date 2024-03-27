@@ -75,6 +75,17 @@ I will be more than happy to correct it.
   - Ecommerce System (Amazon)
   - Messanger App like Whatsapp / Facebook
   - Notification System Design
+  - Design Netflix
+  - Design Youtube
+  - Design Youtube like functionality
+  -  Design Quora/Reddit/HackerNews (A Social Network + Message Board Service)
+  - Design Search Typeahead(Autocomplete)
+  - Design Dropbox/Google Drive/Google Photos (A Global File Storage and Sharing Service)
+  - Design a Web Crawler
+  - Design Facebook, Twitter, or Instagram
+  - Design Uber or Lyft (A Ride-Sharing Service)
+  - Design an API Rate Limiter(Github)
+  - Design a Notification System (Push Notifications)
     
     
 # What is System Design ?
