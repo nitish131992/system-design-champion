@@ -149,7 +149,10 @@ System design requires a systematic approach to building and engineering systems
     * Time Series 
       Prometheus
     * Analytics
-      Datawarehouse -> offline reporting , ex Hadoop
+      Datawarehouse -> offline reporting , ex Hadoop4
+
+![TypesOfDatabase](https://github.com/nitish131992/system-design-champion/assets/19357644/98419e4e-dbe9-423e-b77f-055610aef856)
+
 
   ### How to make a database choise
 
@@ -159,7 +162,13 @@ System design requires a systematic approach to building and engineering systems
   #### SQL
   #### NoSQL
   #### Distributed database
-  #### ACID vs BASE
+  #### ACID
+
+  ![ACID](https://github.com/nitish131992/system-design-champion/assets/19357644/777ab6d5-56d6-4d77-9db9-c3d9134173f9)
+
+
+  
+  #### BASE
   #### CAP Theorem
   # CAP Theorem
 
