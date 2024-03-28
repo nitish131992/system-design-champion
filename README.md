@@ -151,7 +151,9 @@ System design requires a systematic approach to building and engineering systems
     * Analytics
       Datawarehouse -> offline reporting , ex Hadoop
 
-      ![Screenshot 2024-03-28 221434](https://github.com/nitish131992/system-design-champion/assets/19357644/23b4a7b8-acb0-4714-8335-be0fb85d28e5)
+  ### How to make a database choise
+
+   ![Screenshot 2024-03-28 221434](https://github.com/nitish131992/system-design-champion/assets/19357644/23b4a7b8-acb0-4714-8335-be0fb85d28e5)
 
 
   #### SQL
